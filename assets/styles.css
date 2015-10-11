@@ -48,12 +48,7 @@ div.circles {
   overflow: auto;
 }
 
-
-.circle {
-  /*position: relative;*/
-  float: left;
-  width: 164px;
-  height: 164px;
-  border-radius: 100%;
-  background-color: #ccc;
+div#blueBorder img {
+  margin-left: -14px;
+  margin-top: -14px;
 }
