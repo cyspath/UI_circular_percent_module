@@ -1,6 +1,6 @@
 # Animated Circle Percentage
 <img src='img/circular.gif' align='center' padding='10px'>
-#### (actual rendering is smoother than the above .gif, of course =)
+#### (actual rendering is smoother than the above .gif)
 
 ## How it works
 
